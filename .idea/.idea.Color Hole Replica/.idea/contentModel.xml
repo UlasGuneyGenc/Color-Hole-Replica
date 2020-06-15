@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\UGG\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\UGG\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Color Hole Replica.1687905909.00" t="ExcludeRecursive" />
+    <e p="D:\Repos\Color Hole Replica" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BOXOPHOBIC" t="Include">
+          <e p="Skybox Cubemap Extended" t="Include">
+            <e p="Core" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Skybox Cubemap Extended.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Utils" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="BoxophobicUtils" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="GetBoxophobicFolder.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Constants" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Constants.cs" t="Include" />
+                </e>
+              </e>
+              <e p="SettingsUtils" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="LoadSettingsData.cs" t="Include" />
+                  <e p="SaveSettingsData.cs" t="Include" />
+                </e>
+                <e p="SettingsData.cs" t="Include" />
+              </e>
+              <e p="StyledGUI" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="DrawInspectorBanner.cs" t="Include" />
+                  <e p="DrawInspectorCategory.cs" t="Include" />
+                  <e p="DrawWindowBanner.cs" t="Include" />
+                  <e p="DrawWindowCategory.cs" t="Include" />
+                </e>
+              </e>
+              <e p="StyledInspector" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="StyledBannerDrawer.cs" t="Include" />
+                  <e p="StyledCategoryDrawer.cs" t="Include" />
+                  <e p="StyledInteractiveDrawer.cs" t="Include" />
+                  <e p="StyledMessageDrawer.cs" t="Include" />
+                  <e p="StyledPopupArrayDrawer.cs" t="Include" />
+                  <e p="StyledPopupLayersDrawer.cs" t="Include" />
+                  <e p="StyledRangeOptionsDrawer.cs" t="Include" />
+                  <e p="StyledSpaceDrawer.cs" t="Include" />
+                  <e p="StyledTexturePreviewDrawer.cs" t="Include" />
+                </e>
+                <e p="StyledBanner.cs" t="Include" />
+                <e p="StyledCategory.cs" t="Include" />
+                <e p="StyledInteractive.cs" t="Include" />
+                <e p="StyledMessage.cs" t="Include" />
+                <e p="StyledPopupArray.cs" t="Include" />
+                <e p="StyledPopupLayers.cs" t="Include" />
+                <e p="StyledRangeOptions.cs" t="Include" />
+                <e p="StyledSpace.cs" t="Include" />
+                <e p="StyledTexturePreview.cs" t="Include" />
+              </e>
+              <e p="StyledMaterial" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="StyledBannerDrawer.cs" t="Include" />
+                  <e p="StyledCategoryDrawer.cs" t="Include" />
+                  <e p="StyledDiffusionMaterialDrawer.cs" t="Include" />
+                  <e p="StyledInteractiveDrawer.cs" t="Include" />
+                  <e p="StyledMessageDrawer.cs" t="Include" />
+                  <e p="StyledSpaceDrawer.cs" t="Include" />
+                </e>
+              </e>
+              <e p="StyledMono" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="StyledMonoBehaviourEditor.cs" t="Include" />
+                </e>
+                <e p="StyledMonoBehaviour.cs" t="Include" />
+                <e p="StyledMonoHideScriptField.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Enemy.cs" t="Include" />
+          <e p="Gate.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="SceneLoader.cs" t="Include" />
+          <e p="ShakeBehavior.cs" t="Include" />
+          <e p="Target.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Color Hole Replica.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
